@@ -1,0 +1,10 @@
+org/example/Controller/LibraryEventController.class
+org/example/model/LibraryEvent$LibraryEventBuilder.class
+org/example/App.class
+org/example/model/Book.class
+org/example/model/Book$BookBuilder.class
+org/example/producer/LibraryEventProducer$1.class
+org/example/model/LibraryEvent.class
+org/example/config/AutoCreateConfig.class
+org/example/config/KafkaProducerConfig.class
+org/example/producer/LibraryEventProducer.class
